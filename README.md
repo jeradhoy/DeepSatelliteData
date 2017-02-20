@@ -9,4 +9,4 @@ List of labelled satellite imagery, and projects use in deep learning applicatio
     - [Kaggle: Dstl Satellite Imagery](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data])
 
 - Projects
-    - [Project Using OSM Roads](https://github.com/trailbehind/DeepOSM]
+    - [Project Using OSM Roads](https://github.com/trailbehind/DeepOSM)
