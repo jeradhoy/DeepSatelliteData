@@ -1,6 +1,6 @@
-# Deep Satellite Data 
+# Deep Satellite Resources
 
-List of labelled satellite imagery, and projects use in deep learning applications.
+List of labelled datasets, projects, and papers relevant to classifying satellite imagery using deep learning.
 
 - Datasets
     - [SpaceNet](https://aws.amazon.com/public-datasets/spacenet/)
@@ -21,5 +21,4 @@ List of labelled satellite imagery, and projects use in deep learning applicatio
     - [Classification and Segmentation of Satellite Orthoimagery Using Convolutional Neural Networks](http://www.mdpi.com/2072-4292/8/4/329/html)
     - [Scene Classification via a Gradient Boosting Random Convolutional Network Framework](https://www.researchgate.net/publication/283523609_Scene_Classification_via_a_Gradient_Boosting_Random_Convolutional_Network_Framework)
     - [Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks](https://arxiv.org/abs/1609.06846)
-    - []()
     - []()
