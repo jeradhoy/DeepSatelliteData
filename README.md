@@ -14,7 +14,7 @@ List of labelled satellite imagery, and projects use in deep learning applicatio
     - [Project Using OSM Roads](https://github.com/trailbehind/DeepOSM)
     
 - Papers
-  - [DeepLab: Semantic Image Segmentation with Deep  Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915)
+    - [DeepLab: Semantic Image Segmentation with Deep  Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915)
     - [SEMANTIC SEGMENTATION OF AERIAL IMAGES WITH AN ENSEMBLE OF CNNS](http://intanto.net/publications/Marmanis_isprs16.pdf)
     
     - [A novel spectral index to automatically extract road networks from WorldView-2 satellite imagery](http://www.sciencedirect.com/science/article/pii/S111098231400043X)
